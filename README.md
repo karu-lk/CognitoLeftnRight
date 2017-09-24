@@ -2,16 +2,6 @@
 
 A simple/sample AngularV4-based web app that demonstrates different API authentication options using Amazon Cognito and API Gateway with an AWS Lambda and Amazon DynamoDB backend that stores user details as part of the blog post https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/ :
 
-<p align="center">
-  <img src="https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2017/06/07/image009.png"  />
-</p>
-
-### Required Tools
-
-* [aws cli](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
-* [npm](https://www.npmjs.com/)
-* [angular-cli](https://github.com/angular/angular-cli)
-
 ### Instructions
 
 Get started by cloning the repository then editing some files described with more detail in steps 1-4:
